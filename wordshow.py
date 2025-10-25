@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# Licensed under the MIT License. See LICENSE.md in the repository.
+
 """
 Daily Random Words Popup
 - Selects 10 random words from Uni Michigan word list daily.
@@ -102,4 +103,5 @@ if __name__ == "__main__":
     if not os.path.exists('wordlist.txt'):
         print("Error: wordlist.txt not found and could not be downloaded.", file=sys.stderr)
         sys.exit(1)
+
     main()
