@@ -15,7 +15,7 @@ A Python script or Windows executable that displays a daily Tkinter popup with 1
 4. Run: `python wordshow.py`.
 
 ### Option 2: Windows Executable
-1. Download `wordshow.exe` and `setup_task.bat` from [Releases](https://github.com/yourusername/daily-words-popup/releases).
+1. Download `wordshow.exe` and `setup_task.bat` from [Releases](https://github.com/amintgn/WordShow/releases).
 2. Place both in a folder (e.g., `C:\DailyWords`).
 3. Right-click `setup_task.bat`, select "Run as Administrator" to enable auto-start (one-time).
 
